@@ -1,0 +1,31 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(#0a1a3a, #000a1a, #031433);
+}
+
+
+h1 {
+  font-size: 3rem;
+  text-shadow: 0 0 10px #1e90ff, 0 0 20px #4682b4, 0 0 40px #87cefa;
+}
+h2{
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: aliceblue;
+  text-shadow: 0 0 10px #1e90ff, 0 0 20px #4682b4, 0 0 40px #87cefa;
+}
+
+  
+  
+  .hero-section {
+   background: radial-gradient(#0a1a3a, #000a1a, #031433);
+  background-position: center;
+background-repeat: no-repeat;
+   min-height: 100vh;
+   text-shadow: 0 0 10px #1e90ff, 0 0 20px #4682b4, 0 0 40px #87cefa;
+  }
+
